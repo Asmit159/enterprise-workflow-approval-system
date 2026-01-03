@@ -2,12 +2,14 @@
 
 > A configurable, role-based, multi-level approval workflow system built with **Spring Boot**, designed to model real-world enterprise approval processes.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-brightgreen)
-![Java](https://img.shields.io/badge/Java-25-blue)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-orange)
-![Security](https://img.shields.io/badge/Spring-Security-red)
-![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20H2-blueviolet)
-![Status](https://img.shields.io/badge/Status-Backend%20Focused-success)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0-brightgreen?style=for-the-badge&logo=springboot)
+![Java](https://img.shields.io/badge/Java-25-blue?style=for-the-badge&logo=openjdk)
+![Hibernate](https://img.shields.io/badge/Hibernate-JPA-orange?style=for-the-badge&logo=hibernate)
+![Security](https://img.shields.io/badge/Spring-Security-red?style=for-the-badge&logo=springsecurity)
+![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20H2-blueviolet?style=for-the-badge&logo=mysql)
+![API](https://img.shields.io/badge/API-REST-success?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Docs-Swagger%20%2F%20OpenAPI-green?style=for-the-badge&logo=swagger)
+![Architecture](https://img.shields.io/badge/Architecture-Layered%20%7C%20Clean-informational?style=for-the-badge)
 
 ---
 
