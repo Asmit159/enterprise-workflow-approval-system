@@ -1,4 +1,4 @@
-# 🏢 Enterprise Workflow Approval System V1.0
+# 🏢 Enterprise Workflow Approval System v1.0
 
 > A configurable, role-based, multi-level approval workflow system built with **Spring Boot**, designed to model real-world enterprise approval processes.
 
